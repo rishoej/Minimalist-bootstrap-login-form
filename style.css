@@ -56,14 +56,14 @@ input:-ms-input-placeholder {
 	border: none;	
 	color:#ffffff;
 }
-.glemt-adgangskode-container{
+.loginUrlContainer{
 	text-align: center;
 }
-.glemt-adgangskode {
+.loginUrl {
 	color:#95a4a4;
 	font-size: 1.1em;
 	text-decoration: none;
 }
-.glemt-adgangskode:hover{
+.loginUrl:hover{
 	color:#95a4a4;
 }
