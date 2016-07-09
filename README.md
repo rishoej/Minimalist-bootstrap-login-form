@@ -1,3 +1,3 @@
-# Minimalist-bootstrap-login-form
+# Minimalist Bootstrap login form
 
 A simple login form using Bootstrap framework, CSS and HTML.
